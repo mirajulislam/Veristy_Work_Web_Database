@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <title>This is my first website</title>
+</head>
+<style>
+*{
+margin:0;
+padding:0;
+
+}
+.head{
+background:pink;
+height:100px;
+color:red;
+}
+.side{
+overflow:hidden;
+}
+.div1{
+height:300px;
+width:30%;
+float:left;
+background:#999999;
+}
+.div2{
+height:300px;
+width:40%;
+float:left;
+background:green;
+}
+.div3{
+height:300px;
+width:30%;
+float:left;
+background:#999999;
+}
+.footer{
+color:red;
+background: #454545;
+height:100px;
+
+}
+</style>
+<body>
+<div>
+<div class="head">
+<h2> THIS IS THE HEADER </h2>
+</div>
+
+<div class="side">
+<div class="div1">
+<h3> THIS IS THE LEFT </h2>
+</div>
+<div class="div2">
+<h3> THIS IS THE CENTER....</h2>
+</div>
+<div class="div3">
+<h3> THIS IS THE RIGHT</h2>
+</div>
+</div>
+<div class="footer">
+<h4> FOOTER</h4>
+</div>
+</div>
+</body>
+
+</html>
