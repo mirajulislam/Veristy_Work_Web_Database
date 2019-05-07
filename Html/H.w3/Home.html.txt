@@ -1,0 +1,141 @@
+    
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Image Source</title>
+</head>
+<style>
+#logo{
+	height:150px;
+    width:20%;
+    background-color:#FA8072;
+   left:0px;
+   top:0px;
+   position:absolute;
+   border:#009 solid 2px;
+}
+#banner{
+	height:150px;
+    width:80%;
+    background-color:#666;
+   right:0px;
+   top:0px;
+   position:absolute;
+   border:#093 solid 2px;
+}
+#menu{
+	height:80px;
+    width:100%;
+    background-color:#FFA07A;
+   right:0px;
+   top:150px;
+   position:absolute;
+   border:#045 solid 2px;
+   
+}
+#lnavig{
+	height:200px;
+    width:25%;
+    background-color:#ffe4e1;
+   left:0px;
+   top:232px;
+   position:absolute;
+   border:#045 solid 2px;
+}
+#rnavig{
+	height:200px;
+    width:25%;
+    background-color:#ffdead;
+   right:0px;
+   top:232px;
+   position:absolute;
+   border:#045 solid 2px;
+}
+#tleft{
+	height:100px;
+    width:25%;
+    background-color:#50E14F;
+   left:25%;
+   top:232px;
+   position:absolute;
+   border:#045 solid 2px;
+}
+#tright{
+	height:100px;
+    width:25%;
+    background-color:#E98D26;
+   left:50%;
+   top:232px;
+   position:absolute;
+   border:#045 solid 2px;
+}
+#bleft{
+	height:100px;
+    width:25%;
+    background-color:#00ff00;
+   left:25%;
+   top:332px;
+   position:absolute;
+   border:#045 solid 2px;
+}
+#bright{
+	height:100px;
+    width:25%;
+    background-color:#00ffff;
+   left:50%;
+   top:332px;
+   position:absolute;
+   border:#045 solid 2px;
+}
+#footer{
+	height:60px;
+    width:100%;
+    background-color:black;
+   top:434px;
+   right:0px;
+   position:absolute;
+   border:#045 solid 2px;
+}
+.follow{
+  height:30px; 
+  width:30px;
+  padding:6px; 
+  margin:5px;
+}
+   </style>
+   
+
+	<body>
+			<div id="logo">
+            	<img src="https://image.shutterstock.com/image-photo/masked-hacker-using-computer-organizing-260nw-680078920.jpg" height="150px" width="100%">
+            </div>
+			<div id="banner">
+            	<img src="https://www.pandotrip.com/wp-content/uploads/2018/09/Seigantoji-Pagoda-and-Nachi-Falls-in-Nacho-Japan.jpg" height="150px" width="100%">
+            </div>
+		<div id="menu"><marquee><h4 style="color:green">This is menu</h4></marquee></div>
+			<div id="lnavig">
+          <p>
+            <ul type="square">
+              <li><a href="https://www.facebook.com/miraj7993">Home</a></li>
+              <li><a href="https://github.com/mirajulislam">Contact</a></li>
+              <li>about</li>
+              <li><a href="registration.html">Registration</li>
+            </ul>
+          </p>   
+      </div>
+			<div id="mnavig">
+				<div id="tleft"><img src="https://images.all-free-download.com/images/graphiclarge/natural_fantasia_hd_picture_5_166068.jpg" width="100%" height="100%"></div>
+				<div id="tright"><img src="https://s.hdnux.com/photos/75/60/43/16189689/3/920x920.jpg" width="100%" height="100%"></div>
+				<div id="bleft"><img src="http://freedesignfile.com/upload/2014/07/Grass-floral-and-natural-vector.jpg" width="100%" height="100%"></div>
+				<div id="bright"><img src="https://www.unfi.com/sites/default/files/home/unfi-road_0.jpg" width="100%" height="100%"></div>
+			</div>
+			<div id="rnavig"></div>
+			<div id="footer"><p align="right">
+        <a href="http://www.facebook.com"><img class="follow" src="https://cdn.cnbcafrica.com/wp-content/uploads/2017/02/03074708/facebook-667456_640pixabay.png"></a>
+        <a href="http://www.twitter.com"><img class="follow" src="https://cdn2.techadvisor.co.uk/cmsdata/features/3534616/logo_thumb800.jpg"></a>
+        <a href="http://www.google.com"><img class="follow" src="http://i.dailymail.co.uk/i/pix/2015/09/01/18/2BE1E88B00000578-3218613-image-m-5_1441127035222.jpg"></a></p>
+      </div>
+
+	</body>
+</html>
